@@ -21,3 +21,6 @@ A Python-based automation script for a car game that enables the car to autonomo
    ```bash
    git clone https://github.com/GHDBASHEN/Car-Game-Automation-Script.git
    cd Car-Game-Automation-Script
+ 2.Install this libraries too:
+   ```bash
+      pip install opencv-python pyautogui keyboard
